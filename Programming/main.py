@@ -31,8 +31,8 @@ def main():
 
   print(baseline_train.shape)
   # Example commands to both train- and run the above implementation
-  baseline_model = LSTM_model(word_level = False, embedding_size = 600, num_units = 250, drop_out = 0)
-  baseline_model.fit(baseline_train, 1)
+  baseline_model = LSTM_model(word_level = True, embedding_size = 600, num_units = 250, drop_out = 0.1)
+  baseline_model.fit(baseline_train, 30, True, True)
   review = np.random.choice(baseline_train)
   print(review)
   print(baseline_model.generate((review.split())[:5], len((review.split())[5:]), 0.15))

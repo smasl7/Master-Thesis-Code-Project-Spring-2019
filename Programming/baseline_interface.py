@@ -90,10 +90,10 @@ class LSTM_model:
     self.model.compile(loss='categorical_crossentropy', optimizer="rmsprop", metrics=["accuracy"])
     self.model.fit(predictors, label, epochs = num_epochs, verbose = 1 if verbose else 0)
     
+    if verbose:
+      print("Done with training the LSTM model!", end="\n\n")
+    
     if save:
-      if verbose:
-        print("Done with training the LSTM model!", end="\n\n")
-
       if verbose:
         print("Saving the model...")
 

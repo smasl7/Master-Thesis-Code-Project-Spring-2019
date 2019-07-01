@@ -7,7 +7,7 @@ V-Att2Seq model as seen in this file is based on the description of its architec
 as given in the master thesis report that is attached along with this code project. Each drug review text is 
 interpreted as a sequence of tokens, where tokens are either punctuation or single words. For further information, 
 please check the master thesis report describing the design of the V-Att2Seq model in depth. Each token also 
-used GloVe worde embeddings. The source of these word embeddings could be found in the following 
+used GloVe word embeddings. The source of these word embeddings could be found in the following 
 link: https://nlp.stanford.edu/projects/glove/
 
 For implementing the variational recurrent autoencoder, the following implementation of corresponding 
@@ -41,11 +41,11 @@ class V_Att2Seq_model:
   The __init__(...) function initializes any instance of the V-Att2Seq_model class with certain arguments that the user 
   is free to define however it wants.
   """
-  def __init__(self, embedding_dim = 50, vrae_intermediate_dim = 256, vrae_hidden_dim = 256, main_encoding_dim = 64, main_attribute_dim = 192, main_hidden_dim = 350, main_dropout = 0.1):
+  def __init__(self, embedding_dim = 50, vrae_intermediate_dim = 256, vrae_hidden_dim = 256, main_encoding_dim = 64, main_attribute_dim = 192, main_hidden_dim = 450, main_dropout = 0.1):
     # PREPROCESSING
     self.tokenizer = Tokenizer(filters = disallowed_punctuation)
     self.embedding_dim = embedding_dim # Dimensionality of the GloVe word embeddings to use
-    self.embedding_matrix = None # Glove word embedding matrix
+    self.embedding_matrix = None # GloVe word embedding matrix
     self.num_tokens = None # Number of tokens detected in the training data set
     self.max_sequence_len = None # Maximum length of all sequences in the training data set
     self.onehot_drug_encoder = None # One-hot encoder of the drug attribute

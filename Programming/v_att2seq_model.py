@@ -1,8 +1,275 @@
-<!DOCTYPE html><html lang="sv" xml:lang="sv" xmlns="http://www.w3.org/1999/xhtml" xmlns:Web="http://schemas.live.com/Web/"><script type="text/javascript" >//<![CDATA[
-si_ST=new Date
-//]]></script><head><!--pc--><title>undo git clean - Bing</title><meta content="text/html; charset=utf-8" http-equiv="content-type" /><meta name="referrer" content="origin-when-cross-origin" /><link href="/search?format=rss&amp;q=undo+git+clean&amp;qs=n&amp;form=QBRE&amp;sp=-1&amp;ghc=1&amp;pq=undo+git+cle&amp;sc=2-12&amp;sk=&amp;cvid=99D0A857B75D4ECBB133B7985C652442" rel="alternate" title="XML" type="text/xml" /><link href="/search?format=rss&amp;q=undo+git+clean&amp;qs=n&amp;form=QBRE&amp;sp=-1&amp;ghc=1&amp;pq=undo+git+cle&amp;sc=2-12&amp;sk=&amp;cvid=99D0A857B75D4ECBB133B7985C652442" rel="alternate" title="RSS" type="application/rss+xml" /><link href="/sa/simg/bing_p_rr_teal_min.ico" rel="shortcut icon" /><script type="text/javascript">//<![CDATA[
-_G={ST:(si_ST?si_ST:new Date),Mkt:"sv-SE",RTL:false,Ver:"26",IG:"E7EFF5C83567444A8BACE77A52A78961",EventID:"9AE1F5724A0F4A85A5CFE950CE6DBADE",V:"web",P:"SERP",DA:"DUB02",SUIH:"RnGVaCtiGbf_dCmeHBxpXg",adc:"b_ad",gpUrl:"\/fd\/ls\/GLinkPing.aspx?" }; _G.lsUrl="/fd/ls/l?IG="+_G.IG ;curUrl="https:\/\/www.bing.com\/search";function si_T(a){ if(document.images){_G.GPImg=new Image;_G.GPImg.src=_G.gpUrl+'IG='+_G.IG+'&'+a;}return true;};/*!DisableJavascriptProfiler*/
-0;/*!DisableJavascriptProfiler*/
-0;/*!DisableJavascriptProfiler*/
-0;
-//]]></script><style type="text/css">.sw_ddbk:after,.sw_ddw:after,.sw_ddgn:after,.sw_poi:after,.sw_poia:after,.sw_play:after,.sw_playa:after,.sw_playd:after,.sw_playp:after,.sw_st:after,.sw_sth:after,.sw_ste:after,.sw_st2:after,.sw_plus:after,.sw_tpcg:after,.sw_tpcw:after,.sw_tpcbk:after,.sw_arwh:after,.sb_pagN:after,.sb_pagP:after,.sw_up:after,.sw_down:after,.b_expandToggle:after,.sw_calc:after,.sw_fbi:after,.sw_twi:after,.b_fLogo:after,.b_cm:after,.sw_rmore:after,.sw_tpo:after,.sw_tpoa:after,.sw_lpoi:after,.sw_skp:after{position:relative;content:url(/sa/simg/SharedSpriteDesktop_2x_040919.png)}.sw_ddbk,.sw_ddw,.sw_ddgn,.sw_poi,.sw_poia,.sw_play,.sw_playa,.sw_playd,.sw_playp,.sw_st,.sw_sth,.sw_ste,.sw_st2,.sw_plus,.sw_tpcg,.sw_tpcw,.sw_tpcbk,.sw_arwh,.sb_pagN,.sb_pagP,.sw_up,.sw_down,.b_expandToggle,.sw_calc,.sw_fbi,.sw_twi,.b_fLogo,.b_cm,.sw_rmore,.sw_tpo,.sw_tpoa,.sw_lpoi,.sw_skp,.actExpander span{position:relative;display:inline-block;overflow:hidden;direction:ltr}.sw_ddbk:after,.sw_ddw:after,.sw_ddgn:after,.sw_poi:after,.sw_poia:after,.sw_play:after,.sw_playa:after,.sw_playd:after,.sw_playp:after,.sw_st:after,.sw_sth:after,.sw_ste:after,.sw_st2:after,.sw_plus:after,.sw_tpcg:after,.sw_tpcw:after,.sw_tpcbk:after,.sw_arwh:after,.sb_pagN:after,.sb_pagP:after,.sw_up:after,.sw_down:after,.b_expandToggle:after,.sw_calc:after,.sw_fbi:after,.sw_twi:after,.b_fLogo:after,.b_cm:after,.sw_rmore:after,.sw_tpo:after,.sw_tpoa:after,.sw_lpoi:after,.sw_skp:after{display:inline-block;transform:scale(.5)}.sw_tpcbk,.sw_tpcg,.b_expandToggle,.b_fLogo{display:block}.sw_play,.sw_playa,.sw_playd,.sw_playp,.sw_skp,.sw_fbi,.sw_twi{height:16px;width:16px}.sw_play:after{transform-origin:-630px -44px}.sw_playa:after{transform-origin:-666px -44px}.sw_playd:after{transform-origin:-702px -44px}.sw_playp:after{transform-origin:-738px -44px}.sw_skp:after{transform-origin:-1290px -36px}.sw_fbi:after{transform-origin:-594px -44px}.sw_twi:after{transform-origin:-1290px 0}.sw_st,.sw_sth,.sw_ste,.sw_st2{height:12px;width:12px}.sw_st:after{transform-origin:-1070px -62px}.sw_st2:after{transform-origin:-1126px -62px}.sw_sth:after{transform-origin:-1154px -62px}.sw_ste:after{transform-origin:-1098px -62px}.sw_arwh{height:11px;width:14px}a:hover .sw_arwh.b_invert:after{transform-origin:-926px -64px}.sw_arwh:after{transform-origin:-894px -64px}.sw_ddbk,.sw_ddw,.sw_ddgn,.actExpander span{height:4px;width:7px}.sw_ddbk:after,.sw_ddw:after,.actExpander span{transform-origin:-532px -64px}.sw_ddgn:after{transform-origin:-512px -64px}.sw_tpcg,.sw_tpcw,.sw_tpcbk{height:10px;width:10px}.sw_tpcg:after,.sw_tpcw:after,.sw_tpcbk:after{transform-origin:-352px -64px}.sw_tpcg:hover:after,.sw_tpcg:active:after,.sw_tpcg:focus:after{-webkit-transform-origin:-376px -64px;-ms-transform-origin:-376px -64px;transform-origin:-376px -64px}.sw_plus{height:8px;width:8px}.sw_plus:after{transform-origin:-552px -64px}.sw_plus:hover:after,.sw_plus:active:after,.sw_plus:focus:after{transform-origin:-572px -64px}.b_expandToggle,.sw_up,.sw_down{height:8px;width:12px}.b_expandToggle:after,.sw_up:after,.sw_down:after{transform-origin:-456px -64px}.sw_up:after{transform-origin:-400px -64px}*:hover>.sw_up:after,*:active>.sw_up:after,*:focus>.sw_up:after{transform-origin:-428px -64px}*:hover>.sw_down:after,*:active>.sw_down:after,*:focus>.sw_down:after{transform-origin:-484px -64px}.b_icon,.sw_poi,.sw_poia{width:20px;height:20px;z-index:0}.sw_poi:after,.sw_poia:after{position:absolute;top:0;left:0;transform-origin:-594px 0;z-index:-1}.sw_poia:after{transform-origin:-638px 0}.b_fLogo{height:16px;width:81px}.b_fLogo:after{transform-origin:-804px 0}.b_cm{height:10px;width:12px}.b_cm:after{transform-origin:-866px -64px}.sw_calc{height:19px;width:19px}.sw_calc:after{transform-origin:-726px 0}.sw_tpo,.sw_tpoa,.sw_rmore{height:12px;width:8px;display:block}.sw_tpo:after,.sw_tpoa:after{transform-origin:-262px -50px}.sw_rmore:after{transform-origin:-242px -50px}.sw_lpoi{height:16px;width:10px}.sw_lpoi:after{transform-origin:-1266px -36px}.b_ad .b_vlist2col li{padding-bottom:7px}html,body #b_results .b_no{background-color:#fff}.b_footer{background-color:#ececec}#b_results>li a{color:#001ba0}#b_results>li a:visited{color:#600090}#b_results>li{background-color:#fff}#b_results>.b_ad a{color:#001ba0}#b_results>.b_ad a:visited{color:#600090}#b_results>.b_pag{background-color:transparent}#b_results>.b_pag a:hover{background-color:#f4f4f4}#b_results>.b_pag .sb_pagS_bp:hover{background-color:#fff}#b_results>.b_pag a.sb_pagP:hover,#b_results>.b_pag a.sb_pagN:hover{background-color:inherit}#b_context .b_ans,#b_context #wpc_ag{background-color:#fff}#b_context>li.b_ad{color:#666;background-color:#fff}#b_context>li.b_ad a{color:#001ba0}#b_context>li.b_ad a:visited{color:#600090}div.b_dropdown .b_selected{background:#e1e0df}#b_tween .b_toggle:hover,#b_tween .ftrH:hover{background:#f2f2f2}.b_scroll{background:#999;border-color:#999}.b_scroll:hover{background:#4d4d4d}.b_dropdown{background-color:#fff;border-color:#e5e5e5}.ctxt,select,input[type="text"]{color:#444;border-color:#ddd}.ccal{border-color:#ddd}.ccal:hover,.ctxt:hover,select:hover,input[type="text"]:hover{box-shadow:0 1px 2px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 2px 0 rgba(0,0,0,.1)}.ctxt:focus,select:focus,input[type="text"]:focus{color:#444;border-color:#919191;box-shadow:0 1px 2px 0 rgba(0,0,0,.1);-webkit-box-shadow:0 1px 2px 0 rgba(0,0,0,.1)}.ccal input[type="text"],.ccal input[type="text"]:hover,.ccal input[type="text"]:focus{color:#444}label{color:#767676}#b_results ::placeholder{color:#767676;opacity:1}#b_results :-ms-input-placeholder{color:#767676}#b_results ::-webkit-input-placeholder{color:#767676}#b_results input[type="text"]:disabled{color:#ccc}a,#b_tween a:visited,#b_results .b_no a{color:#001ba0}a:visited,#b_results>li a:visited{color:#600090}cite,#b_results cite.sb_crmb a,#b_results cite a.sb_metalink,#b_results .b_adurl cite a,#bk_wr_container cite a{color:#006d21}.b_posText{color:#006d21}.b_negText{color:#c80000}#b_context cite,#b_context cite a{color:#006d21}#b_context .b_posText{color:#006d21}#b_context .b_negText{color:#c80000}.b_ad cite,.b_ad cite a{color:#006d21}#b_context .b_entityTitle,#b_results .b_entityTitle{color:#444}#b_context .b_entitySubTitle,#b_results .b_entitySubTitle{color:#767676}#b_context,#b_context #wpc_eif{color:#666}body,.b_promoteText,#b_tween a.ftrH,#b_tween a.ftrH:hover,.b_expando,.b_expando h2,.b_active a,.b_active a:visited,.b_active a:hover,#b_results>.b_pag a,#b_results .b_no,#b_content a.cbl:visited,#b_content a.cbl{color:#666}#b_results>.b_pag .sb_pagS_bp{color:#111}.b_top,.b_top .b_promoteText{color:#444}.b_alert,.b_pAlt{color:#d90026}#b_results .b_alert,#b_results .b_pAlt{color:#d90026}#b_context .b_alert{color:#d90026}.b_demoteText,.b_secondaryText,.b_attribution,.b_factrow,.b_focusLabel,.b_footnote,.b_ad .b_adlabel,#b_tween .b_dropdown a,.b_expando .b_subModule,.b_expando .b_suppModule,.b_algo .b_vList td{color:#767676}.b_algo .b_factrow{color:#666}.b_footer,.b_footer a,.b_footer a:visited{color:#666}#b_content .b_lowFocusLink a,#b_context .b_secondaryText,#b_context .b_attribution,#b_context .b_factrow,#b_context .b_footnote,#b_context .b_ad .b_adlabel,.b_expando .b_secondaryText,.b_expando .b_attribution,.b_expando .b_factrow,.b_expando .b_footnote{color:#767676}#b_context .b_footnote a{color:#111}#b_context .b_pointer.b_mhdr:hover .b_secondaryText{color:#36b}.b_button:hover,.b_button:visited,.b_hlButton,.b_hlButton:hover,.b_hlButton:visited,.b_foregroundText,.ciot{color:#fff}.b_caption,.snippet{color:inherit}.b_top .b_caption{color:inherit}.ciot{background-color:#000}.b_button:hover,.b_hlButton{background-color:#0072c5}.b_button:active,.b_hlButton:active{background-color:#333}.b_hlButton:hover{background-color:#006887}.b_border,.b_button,.b_hlButton{border-color:#ccc}.b_pag a{border:3px solid transparent}.b_pag a.sb_bp{border:0;border-bottom:3px solid transparent}.b_pag .sb_pagS{border-color:#ededed}.b_pag a.sb_pagS_bp{border-color:#111}#b_context .b_subModule,#b_results .b_subModule{border-bottom:1px solid #ebebeb}#b_results .b_subModule:last-child{border-bottom:0}.c_tlbx{border-color:#999;background:#fff}.sw_poi{color:#fff}.sw_poia{color:#fff}#b_results>.b_ad{color:#666;background-color:#f9fcf7}#b_results,#b_results .b_defaultText,#b_results>.b_pag a:hover,#b_tween .b_toggle:hover,#b_tween .b_highlighted{color:#666}html,body,h1,h2,h3,h4,h5,h6,p,img,ol,ul,li,form,table,tr,th,td{border:0;border-collapse:collapse;border-spacing:0;list-style:none;margin:0;padding:0}html{overflow-y:scroll}#b_content{clear:both;min-height:316px;padding:41px 0 20px 100px}#b_pole{margin:-25px 0 15px -100px;padding-left:120px}#b_tween~#b_pole{margin-top:3px}.b_underSearchbox~#b_pole{margin-top:0}#b_context{margin:0 0 0 40px;padding:0 20px}#b_context .b_ans,#b_context .b_ad{margin:0 -20px}#b_context .b_ans{padding:10px 20px 0}#b_context .b_ad{padding:10px 20px}#b_results,#b_context,#b_tween>span,.b_hList>li,.c_tlbxTrg,.b_hPanel>span,.ccal .ccali,.b_footerRight,.b_hPanel .b_xlText,.b_hPanel .cico,.b_moreLink,.b_label+.b_hList,.lc_bks,.lc_bkl,.fiw,.csrc,.b_algo .b_title H2,.b_algo .b_title div,h3{display:inline-block}.b_pointer{cursor:pointer}label,.b_ad .b_adlabel,.c_tlbxTrgIcn{display:block}#b_tween{margin-top:-28px}.b_underSearchbox~#b_tween{margin-top:-2px}#b_tween,#b_tween .ftrH{height:30px}#b_tween>span{padding-right:25px}#b_results>li{padding:10px 20px;margin:0 0 2px}#b_results>.b_ans{padding:12px 20px 0}#b_results>.b_algo{padding:12px 20px 0}#b_results>li .b_fullb{margin-left:-20px;margin-right:-20px}#b_results>.b_ad{padding-right:18px;border-right:2px solid #e5e5e5}#b_results>li:first-child{padding-top:10px}#b_results>.b_pag{padding:18px 0 40px 20px}.sb_hbop,.b_hide,.ttl,#sw_tfbb,.sw_next,.sw_prev,#id_d,.b_hidden img{display:none}.b_hidden{visibility:hidden}#b_context .b_ans{margin-bottom:5px}#b_context .b_ad{margin-bottom:5px}main,aside,.b_inlineList li,.b_factrow li{display:inline}.b_footerRight,td,th,#b_context,.b_hList>li{vertical-align:top}.b_footer{width:100%;padding:12px 0}.c_tlbxTrg{width:15px;height:14px;margin:-1px 6px -3px 2px}.c_tlbxTrgIcn{margin:4px 0 2px 3px}.c_tlbx{position:absolute;z-index:6;border:1px solid;padding:10px}.b_deep ul{width:230px}.b_gridList ul:first-child,.b_vlist2col ul:first-child{margin:0 20px 0 0}.b_gridList li,.b_vlist2col li{padding:0 0 10px}.b_vlist2col.b_deep li{padding:0 0 10px}.b_overhangR .b_vlist2col ul:first-child{margin:0 15px 0 0}.b_overhangR .b_vlist2col ul{width:180px}.b_deep p{height:33px}#b_context .b_ad .b_adlabel,.sc_rf form,form.sc_rf{margin-bottom:10px}.b_ad li,#b_results .b_ad .b_adlabel{margin-bottom:8px}.b_ad li:last-child{margin-bottom:0}.b_ad li li,.b_ad li li:last-child{margin:0}#b_results .b_ad .b_vlist2col,#b_results .b_ad .b_factrow,#b_results .b_ad .b_bcfactrow{margin-top:-6px}#b_results .b_ad .sb_adRA .b_vlist2col{padding-left:0}.sx_ci{border:1px solid #e5e5e5;margin-top:3px;width:80px;height:60px}.b_favicon{margin:0 .5em 0 0}.b_imagePair:after,.b_vlist2col:after,.b_gridList:after{clear:left}.b_imagePair.reverse:after,.b_overhangR:after{clear:right}.b_clear,#b_results>li:after,.b_clearfix:after{clear:both}#b_results>li:after,.b_clearfix:after,.b_imagePair:after,.b_vlist2col:after,.b_gridList:after,.b_overhangR:after{content:'.';display:block;height:0;visibility:hidden}.b_vlist2col ul,.b_gridList ul,.b_float,.b_footer,.b_float_img,.b_pag li,.b_mhdr h2{float:left}.b_floatR_img,.b_floatR,.wr_tc{float:right}.b_overflow,.b_hList li,.b_1linetrunc,.b_deep p{overflow:hidden}.b_creditedImg img,.b_creditedImg .cico{padding-bottom:1px}h4,.sa_uc>.b_vList>li>table td,.b_smBottom,#b_context .b_ad h2,.b_attribution,.b_focusTextExtraSmall,.b_snippet{padding-bottom:2px}.b_focusLabel,.b_secondaryFocus,.b_focusTextLarge,.b_focusTextMedium,.b_focusTextSmall{padding-bottom:4px}.b_factrow{padding-bottom:2px}h2,label{padding-bottom:3px}.b_vPanel .b_vPanel>div,.b_vList .b_vPanel>div{padding-bottom:5px}.b_dataList li,.b_mBottom{padding-bottom:5px}.b_lBottom,#b_results #sp_recourse.b_lBottom,.b_caption,.b_moreLink,.b_footnote,.b_hList>li,#b_context h2,#b_results .b_subModule h2,#b_results .b_ad .b_factrow,#b_results .b_ad .b_bcfactrow,.b_expando h2,.b_no h1,.b_no h4,.b_no li,.b_prominentFocusLabel,.b_locStr,.b_entitySubTitle{padding-bottom:10px}.b_vPanel>div,.b_vList>li{padding-bottom:10px}.b_vList .b_hList>li,.b_vPanel .b_hList>li,.b_vList .b_float_img,.b_creditedImg .b_footnote,.b_creditedImg .cico img,#b_results>.b_ad,.b_suppModule .b_mhdr,.b_vList>li>.tab-container,.b_vPanel>div>.tab-container,.b_ad .b_deep h3,#b_content .b_float_img_nbp{padding-bottom:0}.b_caption .b_factrow:last-child,#b_results .b_caption .b_factrow:last-child,.b_caption>.b_dataList:last-child li:last-child,.b_caption .b_moreLink:last-child,.b_vList .b_moreLink:last-child,.b_vList .b_factrow:last-child,.b_vPanel .b_factrow:last-child,.b_caption .b_attribution:last-child,.b_vList .b_attribution:last-child,.b_hList .b_attribution:last-child,.b_vPanel .b_attribution:last-child,.b_vList>li>table:last-child tr:last-child td,.b_vPanel>div>table:last-child tr:last-child td,.b_vList .b_focusLabel:last-child,.b_vPanel .b_focusLabel:last-child,.b_vList .b_secondaryFocus:last-child,.b_vPanel .b_secondaryFocus:last-child,.b_vList .b_focusTextExtraSmall:last-child,.b_vPanel .b_focusTextExtraSmall:last-child,.b_vList .b_focusTextSmall:last-child,.b_vPanel .b_focusTextSmall:last-child,.b_vList .b_focusTextMedium:last-child,.b_vPanel .b_focusTextMedium:last-child,.b_vList .b_focusTextLarge:last-child,.b_vPanel .b_focusTextLarge:last-child,.b_vList h4:last-child,.b_vPanel h4:last-child,.b_vPanel .b_caption:last-child,.b_vPanel .b_vList:last-child>li:last-child,.b_vPanel .b_footnote:last-child{padding-bottom:0}.b_vList .b_vPanel,.b_vPanel .b_vPanel{margin-bottom:-5px}.b_hList .b_vPanel{margin-bottom:-10px}.b_mBMargin{margin-bottom:5px}#b_results .b_no{margin:0 0 80px}.b_rich{padding-top:3px}h2+.b_rich{padding-top:2px}.b_algo .b_attribution img{vertical-align:text-bottom}.b_lLeft,.b_floatR_img,.b_suffix{padding-left:10px}.wr_tc,.b_xlLeft,.b_deep,#b_results .b_ad .b_vlist2col,#b_tween{padding-left:20px}h2 .b_secondaryText{margin-left:5px}.b_hList.b_imgStrip>li{padding-right:1px}.fiw,.lc_bkl,.b_mRight,.b_label,.csrc{padding-right:5px}.b_lRight,.b_imgStrip .imgData,.b_underSearchbox .b_label{padding-right:10px}.b_hPanel>span,.b_hList>li{padding-right:10px}.b_xlRight{padding-right:20px}.b_hList.b_imgStrip>li:last-child,.b_hList>li:last-child,.b_hPanel>span:last-child,td:last-child,th:last-child,#b_tween>span:last-child{padding-right:0}.b_overhangR{margin-right:-30px;padding-right:150px}.wr_tc{margin-right:-150px}.b_tbl{margin-right:-10px}.b_border,.b_button,.b_hlButton,.b_scroll,.b_dropdown{border-width:1px;border-style:solid}.b_button,.b_hlButton{line-height:30px;text-decoration:none;text-align:center;cursor:pointer;padding:0 15px;min-width:50px}.lc_bks .cbtn{margin-top:15px}#b_context .b_subModule,#b_results .b_subModule,.b_expando .b_subModule{padding-bottom:0;margin-bottom:10px}#b_results .b_subModule:last-child{margin-bottom:0}.b_dropdown{position:absolute;z-index:6}.b_scroll{position:relative;top:0;width:5px;height:20px}.b_mhdr{margin:-15px 0 -5px;padding:15px 0 5px}.b_mhdr .sw_up,.b_mhdr .sw_down{margin-top:10px}.b_mhdr .b_moreLink,.b_mhdr .b_secondaryText{margin-top:8px}.b_vPanel .sc_rf form,.b_suppModule .b_mhdr{margin-bottom:0}.b_rTxt{text-align:right}.b_cTxt{text-align:center}table{width:100%;word-wrap:break-word}td,th,.b_float_img{padding:0 10px 10px 0}th{text-align:left}.sw_poi,.sw_poia{float:left;margin:-3px 5px 0 0;line-height:20px;text-align:center}.ctxt,select,input[type="text"]{outline:none;padding:0 11px;height:30px;border-width:1px;border-style:solid;border-radius:2px}.ctxt.b_focusTextMedium{padding:3px 11px 8px 11px;height:57px}.ctxt.b_outTextBox{border-top:4px solid #919191;padding:0 11px 8px 11px}.ctxt.b_outTextBox:focus{border-top-width:1px;padding-top:3px}select{padding:0 0 0 11px;height:32px}input.ctxt,.ccal input,.ccal .ccali,.b_favicon,.b_footnote .cico{vertical-align:middle}.ccal .ctxt,.ccal .ctxt:hover,.ccal .ctxt:focus,.ccal .ccali{background:none;border:none;box-shadow:none;-webkit-box-shadow:none}.ccal{border-width:1px;border-style:solid}.ccal .ccali{height:30px}.ccal .ccalp{padding:5px 5px 0 5px}.b_underSearchbox{margin:-35px 20px 14px}.b_underSearchbox .b_hList>li{padding:0 8px 0 0}.b_compactSearch label{float:left;margin:7px 10px 0 0}.b_compactSearch input{margin-right:0;float:left}.b_compactSearch .cbtn{border-left:0}.b_footer table{width:520px;margin:15px 20px 0 120px}#b_footerItems ul{display:block}#b_footerItems li{display:inline;float:left}#b_footerItems span{margin-right:24px;margin-left:48px;float:right}#b_footerItems a{margin-right:24px}#b_footerItems{height:24px;line-height:24px;padding:0 20px}.b_footerRight{margin:13px 0 0 50px}.b_1linetrunc{text-overflow:ellipsis;white-space:nowrap}div.cico.b_capImg{padding-bottom:4px}#b_context .b_entitySubTitle,#b_results .b_entityTP .b_entitySubTitle{margin-top:-9px}.b_entityTP .b_infocardTopR .b_floatR_img,.b_tinyInfocard .b_floatR_img,.b_smallInfoFacts .sml{padding-bottom:10px}.b_vmparent{display:-ms-flexbox;display:-webkit-flex;display:flexbox;display:-webkit-box;display:flex;align-items:center}.b_relative{position:relative}input,textarea,h4,h5{font:inherit;font-size:100%}body,.b_no h4,h2 .b_secondaryText,h2 .b_alert{font:13px/normal Arial,Helvetica,Sans-Serif}h1,h2,h3{font:13px/1.2em 'Segoe UI',Arial,Helvetica,Sans-Serif}h2{font-size:20px;line-height:24px}h3,.b_no h1{font-size:18px;line-height:22px}cite{font-style:normal}.sb_alert a{font-style:italic}#b_content,#b_context,.b_expando{line-height:1.2em}cite,#b_context,.b_expando,#vidans2{word-wrap:break-word}#sa_ul li,.nowrap{white-space:nowrap}.b_footer{line-height:18px}.b_smText,.b_footnote,.ciot{font-family:Arial,Helvetica,Sans-Serif;font-size:11px;line-height:normal}.b_ad .b_adlabel,.b_ad .b_adlabel strong{font:12px/normal Arial,Helvetica,Sans-Serif}.b_mText{font:16px/22px 'Segoe UI',Arial,Helvetica,Sans-Serif}.b_focusLabel{font:16px 'Segoe UI',Arial,Helvetica,Sans-Serif;line-height:20px}.b_secondaryFocus{font:13px Arial,Helvetica,Sans-Serif;line-height:18px}.b_focusTextExtraSmall{font:18px 'Segoe UI',Arial,Helvetica,Sans-Serif;line-height:1.3em}.b_entityTitle,.b_prominentFocusLabel,.b_xlText{font-size:24px;font-family:'Segoe UI',Arial,Helvetica,Sans-Serif;line-height:1.2em}.b_entityTitle{line-height:normal}.b_entitySubTitle{font:14px/1.2em 'Segoe UI',Arial,Helvetica,Sans-Serif}.b_focusTextSmall,.b_focusTextMedium,.b_focusTextLarge{font:400 28px 'Segoe UI',Arial,Helvetica,Sans-Serif}.b_focusTextMedium{font-size:40px;line-height:48px}.b_focusTextLarge{font-size:54px;line-height:64px}.b_focusTextSmall{font-size:28px;line-height:38px}h2.b_topTitle{font-size:24px;line-height:1.2em}strong,.b_active a,.b_no h4,.b_strong,.b_ad .b_adlabel strong,.cbl{font-weight:700}th,h2 strong,h3 strong{font-weight:normal}#b_tween{font-size:12px}#b_tween>span,#b_tween .ftrH{line-height:30px}.sb_count{text-transform:capitalize}a,.b_algoheader a:hover,.b_topbar a:hover,.b_pag a:hover,.cbtn:hover,.cbtn a:hover,.b_hlButton:hover,.ftrB a:hover,.b_algo:hover .b_vList h2 a,.b_algo:first-child:hover .b_vList h2 a,#b_results>.b_ans:hover .ent_cnt h2>a,#b_results>.b_ans:hover #sp_requery h2>a,#b_results>.b_ans .b_rich>.b_vList>li:hover h5.b_lBMargin>a{text-decoration:none}a:hover,.b_algoheader a h2:hover,.b_algo:first-child:hover h2 a,.b_algo .b_underline a,.sb_add .b_un
+"""
+Author: Sylwester Liljegren
+Date: 2019-07-01
+
+This is the implementation of the V-Att2Seq model that was used in the experiments. The implementation of the 
+V-Att2Seq model as seen in this file is based on the description of its architecture and involving mechanisms 
+as given in the master thesis report that is attached along with this code project. Each drug review text is 
+interpreted as a sequence of tokens, where tokens are either punctuation or single words. For further information, 
+please check the master thesis report describing the design of the V-Att2Seq model in depth. Each token also 
+used GloVe worde embeddings. The source of these word embeddings could be found in the following 
+link: https://nlp.stanford.edu/projects/glove/
+"""
+
+### LIBRARIES ###
+from keras.layers import Input, LSTM, Lambda, RepeatVector, Dense, Concatenate, Dropout # The relevant layers from the Keras library
+from keras.preprocessing.sequence import pad_sequences # pad_sequences(...) from the Keras library pads 
+# sequences of variable length to a sequence of a fixed length
+from keras.preprocessing.text import Tokenizer # Tokenizer from the Keras library that manages texts that 
+# are fed to the Keras tokenizer
+from keras.callbacks import EarlyStopping # Early stopping from the Keras library used for stopping training 
+# when the validation error has ceased to decrease
+from keras.models import Model # A Keras API for simpler models
+from keras import objectives
+from utils import * # Import all functions and values from utils.py
+from copy import deepcopy # Copy library
+from sklearn.preprocessing import OneHotEncoder
+import keras.utils as ku # Some fundamental functions that are defined by the Keras library
+import keras.backend as K
+import numpy as np # NumPy library
+import os
+
+glove_dir = folder_dir + "glove.6B" # The path to the GloVe word embeddings
+
+class V_Att2Seq_model:
+  """
+  The __init__(...) function initializes any instance of the V-Att2Seq_model class with certain arguments that the user 
+  is free to define however it wants.
+  """
+  def __init__(self, embedding_dim = 50, vrae_intermediate_dim = 256, vrae_hidden_dim = 256, main_encoding_dim = 64, main_attribute_dim = 192, main_hidden_dim = 350, main_dropout = 0.1):
+    # PREPROCESSING
+    self.tokenizer = Tokenizer(filters = disallowed_punctuation)
+    self.embedding_dim = embedding_dim # Dimensionality of the GloVe word embeddings to use
+    self.embedding_matrix = None # Glove word embedding matrix
+    self.num_tokens = None # Number of tokens detected in the training data set
+    self.max_sequence_len = None # Maximum length of all sequences in the training data set
+    self.onehot_drug_encoder = None # One-hot encoder of the drug attribute
+    self.onehot_cond_encoder = None # One-hot encoder of the condition attribute
+    self.onehot_rating_encoder = None # One-hot encoder of the rating attribute
+
+    # VARIATIONAL RECURRENT AUTOENCODER
+    self.vrae_intermediate_dim = vrae_intermediate_dim # Dimensionality of the intermediate layer between input/output layer and the hidden layer
+    self.vrae_hidden_dim = vrae_hidden_dim # Dimensionality of the hidden layer
+    self.vrae_encoder = None # Encoder
+    self.vrae_history = None # Training progress history of the variational recurrent autoencoder
+
+    # MAIN MODEL
+    self.main_encoding_dim = main_encoding_dim # Dimensionality of the encoding of the attributes
+    self.main_attribute_dim = main_attribute_dim # Dimensionality of the attribute vector composing the encoded attributes
+    self.main_hidden_dim = main_hidden_dim # Dimensionality of the main hidden vector within the V-Att2Seq model
+    self.main_dropout = main_dropout # Dropout rate on the second-last layer before the output layer
+    self.main_model = None # Main model
+    self.main_history = None # Training progress history of the main model
+  
+  """
+  The __preprocess(...) function preprocess the texts and attributes that are present in the training data set <train_data> and returns 
+  a corresponding preprocessed training data set that is able to be processed by the V-Att2Seq model afterwards.
+  """
+  def __preprocess(self, train_data, verbose = True):
+    train_data[:,2] = deepcopy(REVIEW_START + " " + train_data[:,2] + " " + REVIEW_END) # Include the start- and end tokens
+    if verbose: # If verbosity is activated
+        print("- Number of tokens:", self.num_tokens)
+    
+    sequenced_train_data_texts = np.array(self.tokenizer.texts_to_sequences(train_data[:,2])) # Convert the texts to sequences
+    self.max_sequence_len = max(len(review) for review in sequenced_train_data_texts) # Get the greatest length among the sequences
+
+    drugs = [] # Initialize the list for the drug attributes
+    conds = [] # Initialize the list for the condition attributes
+    ratings = [] # Initialize the list for the rating attributes
+    input_sequences = [] # Initialize the list for the sequences
+    for i, review in enumerate(sequenced_train_data_texts): # For each sequenced drug review
+        for t in range(1, len(review)): # For each t in [1..len(review)-1]
+            drugs.append(train_data[i,0]) # Append the drug list with the current drug attribute
+            conds.append(train_data[i,1]) # Append the condition list with the current condition attribute
+            ratings.append(train_data[i,3]) # Append the rating list with the current rating attribute
+            input_sequences.append(review[:t+1]) # Append the sequence list with the current slice of the sequence
+    input_sequences = np.array(pad_sequences(input_sequences, maxlen = self.max_sequence_len, padding="pre")) # Pad the sequences
+
+    predictors, labels = input_sequences[:,:-1], input_sequences[:,-1] # Split the input sequences into predictors and labels
+    categorical_labels = ku.to_categorical(labels, num_classes = self.num_tokens) # Convert the token identifiers into categorical vectors
+    embedded_predictors = np.zeros((predictors.shape[0], self.max_sequence_len-1, self.embedding_dim)) # Initialize the embedded predictors matrix
+    for i, seq in enumerate(predictors): # For each predictor sequence
+        for j, t in enumerate(seq): # For each token in the predictor sequence
+            embedded_predictors[i,j] = self.embedding_matrix[t] # Assign the GloVe word embedding of the token at time step j in the predictor sequence
+    
+    # Return the results
+    return np.array(drugs).reshape((-1, 1)), np.array(conds).reshape((-1, 1)), np.array(ratings).reshape((-1, 1)), embedded_predictors, categorical_labels
+
+  """
+  The __glove_embedding_matrix(...) function returns an embeddings matrix that for each token contains its own GloVe word embedding.
+  """
+  def __glove_embedding_matrix(self, verbose):
+    embeddings_index = {} # Initialize the dictionary for holding the embedding indices
+    
+    # Read from the file that contains the GloVe word embeddings having a certain dimensionality
+    with open(os.path.join(glove_dir, "glove.6B." + str(self.embedding_dim) + "d.txt"), encoding="utf8") as f:
+      for line in f: # For each line in the text file
+        values = line.split() # Split the read line with respect to white spaces
+        word = values[0] # Get the word from the line
+        coefs = np.asarray(values[1:], dtype="float32") # Get the actual GloVe word embedding
+        embeddings_index[word] = coefs # Include the mapping between the word and the GloVe word embedding using the dictionary 
+        # embeddings_index
+    
+    embedding_matrix = np.random.rand(self.num_tokens, self.embedding_dim) # Initialize a matrix containing values that are uniformly 
+    # distributed on [0,1]
+    non_existent_sum = 0 # Number of words, for whom word embeddings could not be found
+    for word, i in self.tokenizer.word_index.items(): # For each word and its index as hold by the tokenizer
+      embedding_vector = embeddings_index.get(word) # Get the word embedding vector for the word
+      if not embedding_vector is None: # If some word embedding could be found for the word
+        embedding_matrix[i] = embedding_vector # Fill out the chosen row in the matrix with the word embedding
+      elif verbose: # If verbosity is activated
+        print("NOTE! Embedding could not be found for following word:", word) # Inform about the fact that no word embedding could be 
+        # found for the word
+        non_existent_sum += 1 # Increment the counter over # of words, for whom word embeddings could not be found
+    
+    if verbose: # If verbosity is activated
+      print("- Number of words for which embeddings could not be found:", non_existent_sum)
+    
+    return embedding_matrix # Return the word embedding matrix
+
+  """
+  The fit(...) function trains the model provided a training data set <train_data> that is given as argument for some number of epochs 
+  <num_epochs>.
+  """
+  def fit(self, train_data, vrae_num_epochs = 50, main_num_epochs = 50, verbose = True):
+    self.tokenizer.fit_on_texts(train_data[:,2]) # Fit the Keras tokenizer on the training data set
+    self.num_tokens = len(self.tokenizer.word_index) + 1 # Obtain the number of tokens in the training data set
+    self.embedding_matrix = self.__glove_embedding_matrix(verbose) # Obtain the GloVe word embedding matrix
+    drugs, conds, ratings, seqs, next_tokens = self.__preprocess(train_data, verbose = 1 if verbose else 0) # Obtain preprocessed data set
+
+    self.onehot_drug_encoder = OneHotEncoder(sparse = False) # Initialize the one-hot encoder for the drug attribute
+    onehotted_drugs = self.onehot_drug_encoder.fit_transform(drugs) # Learn and produce one-hot encodings for the drug attributes
+    self.onehot_cond_encoder = OneHotEncoder(sparse = False) # Initialize the one-hot encoder for the condition attribute
+    onehotted_conds = self.onehot_cond_encoder.fit_transform(conds) # Learn and produce one-hot encodings for the condition attributes
+    self.onehot_rating_encoder = OneHotEncoder(sparse = False) # Initialize the one-hot encoder for the rating attribute
+    onehotted_ratings = self.onehot_rating_encoder.fit_transform(ratings) # Learn and procue one-hot encodings for the rating attributes
+
+    self.__fit_vrae(seqs, vrae_num_epochs, verbose = 1 if verbose else 0) # Train the variational recurrent autoencoder to get the 
+    # encoder to be used in the subsequent procedures
+
+    """
+    MAIN MODEL AS DEFINED USING THE KERAS LIBRARY
+    """
+    input_drug_attr = Input(shape = (onehotted_drugs.shape[1],)) # Input layer for the drug attributes (one-hot encoded)
+    encoded_input_drug_attr = Dense(self.main_encoding_dim, use_bias = False)(input_drug_attr) # Encoded drug attribute
+
+    input_cond_attr = Input(shape = (onehotted_conds.shape[1],)) # Input layer for the condition attributes (one-hot encoded)
+    encoded_input_cond_attr = Dense(self.main_encoding_dim, use_bias = False)(input_cond_attr) # Encoded condition attribute
+
+    input_rating_attr = Input(shape = (onehotted_ratings.shape[1],)) # Input layer for the rating attributes (one-hot encoded)
+    encoded_input_rating_attr = Dense(self.main_encoding_dim, use_bias = False)(input_rating_attr) # Encoded rating attribute
+
+    combined_encoded_attrs = Concatenate()([encoded_input_drug_attr, encoded_input_cond_attr, encoded_input_rating_attr]) # Concatenation of encoded attributes
+    main_attr_vec = Dense(self.main_attribute_dim, activation = "tanh")(combined_encoded_attrs) # Main attribute vector
+
+    input_sequence = Input(shape = (self.max_sequence_len-1, self.embedding_dim,)) # Input layer for the current sequence
+    vrae_hidden_vec = self.vrae_encoder(input_sequence) # Hidden vector as a result of encoding the current sequence
+
+    combined_vecs = Concatenate()([main_attr_vec, vrae_hidden_vec]) # Concatenation of the hidden vector from the sequence encoder and the main attribute vector
+    main_hidden = Dense(self.main_hidden_dim, activation = "tanh")(combined_vecs) # Main hidden vector
+    prob_dist = Dense(self.num_tokens, activation = "softmax", use_bias = False)(main_hidden) # Softmax vectors using the main hidden vectors
+
+    self.main_model = Model([input_drug_attr, input_cond_attr, input_rating_attr, input_sequence], prob_dist) # The functional main model
+    self.main_model.compile(optimizer="adam", loss="categorical_crossentropy") # Compiling the main model
+    # Training the model and storing its training progress history to self.main_history
+    self.main_history = self.main_model.fit([onehotted_drugs, onehotted_conds, onehotted_ratings, seqs], next_tokens, epochs = main_num_epochs, 
+    callbacks = [
+        EarlyStopping(patience = 2, restore_best_weights = True, verbose = 1 if verbose else 0)
+    ], validation_data = ([onehotted_drugs, onehotted_conds, onehotted_ratings, seqs], next_tokens), verbose = 1 if verbose else 0)
+
+    # Return the training progress history of the main model
+    return self.main_history
+
+  def __fit_vrae(self, train_data, num_epochs, verbose):
+    x = Input(shape=(self.max_sequence_len-1, self.embedding_dim,)) # Input layer for sequences
+
+    h_in = LSTM(self.vrae_intermediate_dim)(x) # LSTM encoding of the sequences
+    z_mean = Dense(self.vrae_hidden_dim)(h_in) # Mean vector given the LSTM encoding
+    z_log_sigma = Dense(self.vrae_hidden_dim)(h_in) # Log-sigma vector given the LSTM encoding
+
+    # This functions samples a hidden vector from a continous space using both the mean vector and the log-sigma vector
+    def sampling(args):
+        z_mean, z_log_sigma = args # Parse the arguments
+        epsilon = K.random_normal(shape=(self.vrae_hidden_dim,), mean=0, stddev=1) # Obtain a standard-normally distributed value
+        return z_mean + z_log_sigma * epsilon # Return a sampled hidden vector
+
+    z = Lambda(sampling, output_shape=(self.vrae_hidden_dim,))([z_mean, z_log_sigma]) # Sample a hidden vector
+
+    z_repeated = RepeatVector(self.max_sequence_len-1)(z)
+    h_out = LSTM(self.vrae_intermediate_dim, return_sequences=True)(z_repeated)
+    x_decoded_mean = LSTM(self.embedding_dim, return_sequences=True)(h_out)
+
+    vrae = Model(x, x_decoded_mean) # End-to-end variational recurrent autoencoder
+    self.vrae_encoder = Model(x, z) # Encoder part of the variational recurrent autoencoder (i.e. from inputs to hidden space)
+
+    # This function calculates the VRAE loss between the input and the reconstructed input by calculating Mean Squared Error (MSE) 
+    # between them and calculating the Kullback-Leibler loss between the inputs, which both of them are added altogether to get 
+    # the final loss value
+    def vrae_loss(x, x_decoded_mean):
+        xent_loss = objectives.mse(x, x_decoded_mean) # Calculate the MSE
+        kl_loss = - 0.5 * K.mean(1 + z_log_sigma - K.square(z_mean) - K.exp(z_log_sigma)) # Calculate the Kullback-Leibler loss
+        loss = xent_loss + kl_loss # Sum the two calculated results together
+        return loss # Return the final loss
+
+    vrae.compile(optimizer='rmsprop', loss = vrae_loss, metrics = [vrae_loss]) # Compiling the variational recurrent autoencoder
+    # Train the model and store the training progress history into self.vrae_history variable
+    self.vrae_history = vrae.fit(train_data, train_data, epochs = num_epochs, validation_split = 0.1, callbacks = [
+        EarlyStopping(monitor="val_vrae_loss", patience = 2, restore_best_weights = True, verbose = 1 if verbose else 0)
+    ], verbose = 1 if verbose else 0)
+
+    # Transfer all the encoder weights from the end-to-end variational recurrent autoencoder into the variable self.vrae_encoder
+    self.vrae_encoder.layers[0].set_weights(vrae.layers[0].get_weights())
+    self.vrae_encoder.layers[1].set_weights(vrae.layers[1].get_weights())
+    self.vrae_encoder.layers[2].set_weights(vrae.layers[2].get_weights())
+    self.vrae_encoder.layers[3].set_weights(vrae.layers[3].get_weights())
+    self.vrae_encoder.layers[4].set_weights(vrae.layers[4].get_weights())
+
+    return self.vrae_history
+  
+  """
+  The generate(...) function generates drug reviews provided the input attributes in <reviews> assuming that the model has been 
+  previously trained.
+  """
+  def generate(self, reviews, random_predict = False):
+    predicted_reviews = deepcopy(reviews) # Make a deep copy of the input drug reviews to another variable to risk not being 
+    # modified by reference
+
+    # A function that performs a prediction with the trained model given a preprocessed sequence
+    def predict_token(drug, cond, rating, token_list, random):
+      ps = self.main_model.predict([drug, cond, rating, token_list], verbose = 0)[0] # Make a prediction
+      return np.random.choice([i for i in range(self.num_tokens)], p = ps) if random else np.argmax(ps) # If non-random, 
+      # then select the token that maximizes the probability of appearing next in the sequence. Otherwise, if random, 
+      # then randomly select a token with respect to the probability of each token to appear next in the sequence
+
+    # This function converts a token to a word
+    def from_token_to_word(token):
+      output_word = "" # Initialization of the variable output_word
+      for word, index in self.tokenizer.word_index.items(): # For each word and its index as hold by the tokenizer
+        if index == token: # If the token and the index is the same
+          output_word = word # Assign the word to output_word
+          break # Exit the loop
+      
+      return output_word # Return the word
+    
+    for i in range(reviews.shape[0]): # For each input drug review
+      generated = REVIEW_START # Initialize the sequence to be built having the start token ("<s>") as the first token
+      onehot_drug = self.onehot_drug_encoder.transform(reviews[i,0].reshape((-1,1)))
+      onehot_cond = self.onehot_cond_encoder.transform(reviews[i,1].reshape((-1,1)))
+      onehot_rating = self.onehot_rating_encoder.transform(reviews[i,3].reshape((-1,1)))
+
+      for j in range(self.max_sequence_len-1): # For each step in the sequence to be built
+        token_list = self.tokenizer.texts_to_sequences([generated])[0] # Convert the current text to a sequence of tokens
+        token_list = np.array(pad_sequences([token_list], maxlen=self.max_sequence_len-1, padding='pre')) # Pad the sequence
+        embedded_token_list = np.zeros((1, self.max_sequence_len-1, self.embedding_dim))
+        for j, t in enumerate(token_list[0]):
+            embedded_token_list[0,j] = self.embedding_matrix[t]
+
+        next_token = predict_token(onehot_drug, onehot_cond, onehot_rating, embedded_token_list, random_predict) # Predict token
+        next_word = from_token_to_word(next_token) # Get the word out of the predicted token
+        if next_word==REVIEW_END: # If the end token was predicted
+          break # Exit the loop
+        else: # If something else was predicted
+          generated += " " + next_word # Add the next word to the current text
+      predicted_reviews[i,2] = generated.lstrip(REVIEW_START).lstrip() # Assign the random text to correct positions in the concerned input drug reviews
+    
+    return predicted_reviews # Return the completed drug reviews

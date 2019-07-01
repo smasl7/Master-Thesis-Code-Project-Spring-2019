@@ -9,6 +9,11 @@ interpreted as a sequence of tokens, where tokens are either punctuation or sing
 please check the master thesis report describing the design of the V-Att2Seq model in depth. Each token also 
 used GloVe worde embeddings. The source of these word embeddings could be found in the following 
 link: https://nlp.stanford.edu/projects/glove/
+
+For implementing the variational recurrent autoencoder, the following implementation of corresponding 
+architecture found at the following link: https://github.com/twairball/keras_lstm_vae/blob/master/lstm_vae/vae.py 
+was used. Some minor modifications had to be performed to successfully integrate that implementation with the overall
+implementation of the V-Att2Seq model.
 """
 
 ### LIBRARIES ###

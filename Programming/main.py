@@ -36,7 +36,6 @@ MIN_GROUP_SIZE = 24 # Minimum number of attribute sets that are present in the d
 FRAC = 0.7 # Fraction of the entire data set used as training data (the rest used as testing data set)
 REPS = 10 # Number of repetitions of the experiments to perform with each concerned model
 
-
 """
 This function converts all occurring attribute sets on the form (drug, condition, rating) in the data set <data> 
 to some integer. Reason for this conversion is to enable stratification procedudure that is offered by the 

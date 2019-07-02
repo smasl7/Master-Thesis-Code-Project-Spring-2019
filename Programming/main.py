@@ -1,6 +1,6 @@
 """
 Author: Sylwester Liljegren
-Date: 2019-06-28
+Date: 2019-07-02
 
 This is the main file that runs all the experiments to produce the results that were presented in the official report 
 of the conducted master thesis.

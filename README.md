@@ -7,4 +7,4 @@ If there are some issues or some further questions about details not being clari
 
 Have fun using this code project!
 
-/Sylwester L.
+/Sylwester Liljegren

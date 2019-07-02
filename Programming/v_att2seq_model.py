@@ -1,6 +1,6 @@
 """
 Author: Sylwester Liljegren
-Date: 2019-07-01
+Date: 2019-07-02
 
 This is the implementation of the V-Att2Seq model that was used in the experiments. The implementation of the 
 V-Att2Seq model as seen in this file is based on the description of its architecture and involving mechanisms 
